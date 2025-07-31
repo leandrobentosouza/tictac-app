@@ -9,7 +9,7 @@ React.Js + Node.js+ Prisma + Mongodb
 To setup this project kindly do the following steps
 ### 1.Clone the Repo
 ```
- git clone https://github.com/asimashfaq/Tictac-App 
+ git clone https://github.com/leandrobentosouza/tictac-app
 ```
 
 ### 2.Build docker images
